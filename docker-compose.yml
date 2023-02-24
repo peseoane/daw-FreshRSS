@@ -15,8 +15,8 @@ services:
       options:
         max-size: 10m
     volumes:
-        - ./media/docker/FreshRSS/:/var/www/FreshRSS/data
-        - ./media/docker/FreshRSS/:/var/www/FreshRSS/extensions
+        - ./FreshRSS/:/var/www/FreshRSS/data
+        - ./FreshRSS/:/var/www/FreshRSS/extensions
     environment:
       TZ: Europe/Madrid
       CRON_MIN: '3,33'
