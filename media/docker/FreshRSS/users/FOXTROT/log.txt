@@ -1,0 +1,2 @@
+[Fri, 24 Feb 2023 12:42:55 +0100] [warning] --- Password mismatch for user=FOXTROT, nonce=6c8d5ea48888c46f2eec1cb9a49ce6b8219325a5, c=$2a$04$fiR5qan167dJFp08mT9yeOpDqcWFcRl.RDGDznvDJGDC7sa2kkkQW
+[Fri, 24 Feb 2023 13:05:47 +0100] [warning] --- cURL error 22: The requested URL returned error: 404 Not Found [http://192.168.109.27:2004/puntos/iagopino]
